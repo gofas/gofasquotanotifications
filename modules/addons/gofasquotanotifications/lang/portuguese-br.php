@@ -6,7 +6,7 @@
  * @copyright	2017 https://gofas.net
  * @license		https://gofas.net/?p=9340
  * @support		https://gofas.net/forums/
- * @version		1.1
+ * @version		2.0.0
  */
 
 // Textos das configurações em português do Brasil
@@ -141,7 +141,7 @@ $EmailTplUpgradeUrl							= 'URL de upgrade específico do serviço';
 $_ADDONLANG['EmailTplUpgradeUrl']			= $EmailTplUpgradeUrl;
 
 $gqn_footer									= '<div class="gqn_section">
-			<p>&copy; '.date('Y').' <a style="text-decoration:underline;" target="_blank" title="↗ Gofas.net" href="https://gofas.net">Gofas.net</a> | <a style="text-decoration:underline;" target="_blank" title="↗ Gofas.net" href="https://gofas.net/blog/">Versão 1.1</a> | <a  style="text-decoration:underline;"target="_blank" title="↗ Documentação" href="https://gofas.net/?p=9633">Documentação</a> | <a style="text-decoration:underline;" target="_blank" title="↗ Fórum de Suporte Gratuito" href="https://gofas.net/?p=9635">Suporte</a>.</p>
+			<p>&copy; '.date('Y').' <a style="text-decoration:underline;" target="_blank" title="↗ Gofas.net" href="https://gofas.net">Gofas.net</a> | <a style="text-decoration:underline;" target="_blank" title="↗ Gofas.net" href="https://gofas.net/blog/">Versão 2.0.0</a> | <a  style="text-decoration:underline;"target="_blank" title="↗ Documentação" href="https://gofas.net/?p=9633">Documentação</a> | <a style="text-decoration:underline;" target="_blank" title="↗ Fórum de Suporte Gratuito" href="https://gofas.net/?p=9635">Suporte</a>.</p>
 			
 			</div>';
 $_ADDONLANG['gqn_footer']			= $gqn_footer;			

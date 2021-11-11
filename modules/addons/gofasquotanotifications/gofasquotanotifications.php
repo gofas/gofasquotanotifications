@@ -6,7 +6,7 @@
  * @copyright	2017 https://gofas.net
  * @license		https://gofas.net/?p=9340
  * @support		https://gofas.net/forums/
- * @version		1.1
+ * @version		2.0.0
  */
 
 if (!defined("WHMCS")) { die("Esse arquivo não pode ser acessado diretamente");}
@@ -26,7 +26,7 @@ function gofasquotanotifications_config() {
 		include __DIR__. '/lang/english.php';
 	}
 	
-	$moduleVersion	= '1.1';
+	$moduleVersion	= '2.0.0';
     
 	return array(
         'name' =>  $moduleName,
@@ -35,14 +35,6 @@ function gofasquotanotifications_config() {
         'language' => 'portuguese-br',
         'version' => $moduleVersion,
         'fields' => array(
-            
-			'license_key' => array(
-                'FriendlyName' => $licenseKey,
-                'Type' => 'text',
-                'Size' => '90',
-                'Default' => '',
-                'Description' => $licenseKeyDesc,
-            ),
 			
             'whmcs_admin' => array(
                 'FriendlyName' => $whmcsAdmin,

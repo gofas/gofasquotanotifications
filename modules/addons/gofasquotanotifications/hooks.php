@@ -15,6 +15,9 @@ require_once __DIR__ . '/functions.php';
 
 add_hook('DailyCronJob', 1, function(array $params) {
 
+	// Telemetria: contabiliza instalação ativa e verifica versão (uma vez por dia via cron)
+	$gqn_verify		= gqn_verify();
+
 	// System config
 	$system_url		= gqn_SystemURL();
 		

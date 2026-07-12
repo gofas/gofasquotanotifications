@@ -6,7 +6,7 @@
  * @copyright	2017 https://gofas.net
  * @license		https://gofas.net/?p=9340
  * @support		https://gofas.net/forums/
- * @version		2.0.0
+ * @version		2.1.0
  */
 
 use WHMCS\Database\Capsule;

@@ -6,7 +6,7 @@
  * @copyright	2017 https://gofas.net
  * @license		https://gofas.net/?p=9340
  * @support		https://gofas.net/forums/
- * @version		2.0.0
+ * @version		2.1.0
  */
 
 if (!defined("WHMCS")) { die("Esse arquivo não pode ser acessado diretamente");}
@@ -26,7 +26,7 @@ function gofasquotanotifications_config() {
 		include __DIR__. '/lang/english.php';
 	}
 	
-	$moduleVersion	= '2.0.0';
+	$moduleVersion	= '2.1.0';
     
 	return array(
         'name' =>  $moduleName,

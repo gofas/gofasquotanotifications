@@ -6,7 +6,7 @@
  * @copyright	2017 https://gofas.net
  * @license		https://gofas.net/?p=9340
  * @support		https://gofas.net/forums/
- * @version		2.0.0
+ * @version		2.1.0
  */
 use WHMCS\Database\Capsule;
 
@@ -29,7 +29,7 @@ function gqn_LogActivity( $admin, $description ) {
 
 // Telemetria: checagem de versão / contabilização de instalação ativa (sempre identificado, sem consentimento pois este módulo não tem evento de charge)
 function gqn_module_version(){
-	return '2.0.0';
+	return '2.1.0';
 }
 function gqn_current_admin(){
 	$currentUser = new \WHMCS\Authentication\CurrentUser;

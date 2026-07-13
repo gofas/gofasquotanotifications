@@ -5,6 +5,7 @@
 
 **Melhorias:**
 
+- readme: captura versionada, badges e sumario - [#4](https://github.com/gofas/gofasquotanotifications/issues/4)
 - readme: conteudo da pagina do site transferido e captura de configuracao - [#3](https://github.com/gofas/gofasquotanotifications/issues/3)
 
 [Comparar versões](https://github.com/gofas/gofasquotanotifications/compare/v2.1.0...HEAD)

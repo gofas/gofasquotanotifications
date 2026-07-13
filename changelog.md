@@ -5,6 +5,7 @@
 
 **Melhorias:**
 
+- readme: link de suporte para o forum do proprio modulo - [#6](https://github.com/gofas/gofasquotanotifications/issues/6)
 - readme: contador do site, captura sem aviso de hook e secao de licenca - [#5](https://github.com/gofas/gofasquotanotifications/issues/5)
 - readme: captura versionada, badges e sumario - [#4](https://github.com/gofas/gofasquotanotifications/issues/4)
 - readme: conteudo da pagina do site transferido e captura de configuracao - [#3](https://github.com/gofas/gofasquotanotifications/issues/3)

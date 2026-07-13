@@ -1,12 +1,28 @@
 # Notificações de Cota de Hospedagem para WHMCS
 
+[![versão](https://img.shields.io/github/v/release/gofas/gofasquotanotifications?label=vers%C3%A3o&color=005071&style=flat-square)](https://github.com/gofas/gofasquotanotifications/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/gofas/gofasquotanotifications/total?label=downloads&color=005071&style=flat-square)](https://github.com/gofas/gofasquotanotifications/releases/latest)
+[![licença](https://img.shields.io/badge/licen%C3%A7a-propriet%C3%A1ria-005071?style=flat-square)](https://gofas.net/contrato-de-venda-de-licenca-de-uso-de-software/)
+[![suporte](https://img.shields.io/badge/suporte-f%C3%B3rum%20gratuito-ff8700?style=flat-square)](https://gofas.net/foruns/)
+
 Módulo addon que monitora o uso de espaço em disco e de largura de banda dos serviços de hospedagem cadastrados no WHMCS, notificando o cliente e o administrador automaticamente ao atingir o limite configurado. Desenvolvido pela Gofas Software, é 100% gratuito e de código aberto.
+
+## Sumário
+
+- [Download](#download)
+- [Funcionalidades](#funcionalidades)
+- [Requisitos](#requisitos)
+- [Instalação](#instalação)
+- [Configuração](#configuração)
+- [Informações importantes](#informações-importantes)
+- [Suporte](#suporte)
+- [Licença](#licença)
 
 ## Download
 
-Baixe a versão mais recente:
+**[Baixar a versão mais recente](https://github.com/gofas/gofasquotanotifications/releases/latest/download/gofasquotanotifications.zip)**
 
-https://github.com/gofas/gofasquotanotifications/releases/latest/download/gofasquotanotifications.zip
+O download é contabilizado no site pelo contador de instalações do módulo.
 
 ## Funcionalidades
 
@@ -33,7 +49,7 @@ https://github.com/gofas/gofasquotanotifications/releases/latest/download/gofasq
 
 ### Opções do módulo
 
-<img src="https://raw.githubusercontent.com/gofas/gofasquotanotifications/master/docs/img/tela-configuracoes-modulo.png" alt="Tela de configuracoes do modulo" width="640">
+<img src="https://raw.githubusercontent.com/gofas/gofasquotanotifications/master/docs/img/tela-configuracoes-modulo-2.1.0.png" alt="Tela de configuracoes do modulo" width="640">
 
 - **Administrador do WHMCS**: administrador com permissão para usar a API interna do WHMCS.
 - **% de uso de disco para alerta**: porcentagem de uso que dispara a notificação ao cliente.

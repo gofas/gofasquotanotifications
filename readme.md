@@ -67,4 +67,4 @@ Módulo addon que monitora o uso de espaço em disco e de largura de banda dos s
 
 ## Licença
 
-[Contrato de licença de uso](https://gofas.net/contrato-de-venda-de-licenca-de-uso-de-software/)
+[Contrato de licença de uso](https://gofas.net/?p=9340)
